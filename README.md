@@ -1,6 +1,12 @@
 ## Hi there 👋
 ## Ikuti Saya di Instagram
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/mrz.afif/)
+## 🌟 Ikuti Saya di Media Sosial
+
+✨ **Instagram**  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/username/)
+
+🎨 Tetap terhubung dengan saya dan lihat karya terbaru saya di Instagram!
+
 
 
 **pipssboy/pipssboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
