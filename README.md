@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Ikuti Saya di Instagram
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/mrz.afif/)
 
 
 **pipssboy/pipssboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
