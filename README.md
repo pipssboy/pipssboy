@@ -3,7 +3,7 @@
 ## 🌟 Ikuti Saya di Media Sosial
 
 ✨ **Instagram**  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/username/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrz.afif/)
 
 🎨 Tetap terhubung dengan saya dan lihat karya terbaru saya di Instagram!
 
